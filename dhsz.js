@@ -1,7 +1,7 @@
 /*
 电话助手通杀 
 [rewrite_local]
-https://kkyun.com/api/(accounts|numbers|apps)/(user|start_task) url script-response-body https://raw.githubusercontent.com/xiaobai99hao/Rewrite/main/dhzs.js?token=GHSAT0AAAAAACTBWRB47BKJXQDTZVCJ5JOEZS2RVBQ
+https://kkyun.com/api/(accounts|numbers|apps)/(user|start_task) url script-response-body https://raw.githubusercontent.com/xiaobai99hao/Rewrite1/main/dhsz.js
 [mitm]
 hostname = kkyun.com
 
